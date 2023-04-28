@@ -1,0 +1,856 @@
+.center{
+    text-align: center;
+}
+.learn{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 540;
+    line-height: 55px;
+}
+
+span{
+    margin-left: 0px;
+}
+.span2{
+    margin-left: 0px;
+}
+
+.dicover-knowledge{
+    color: rgb(90, 90, 90);
+    margin-top: -50px;
+    font-family: sans-serif;
+    font-size: 17px;
+
+}
+
+.get-started-and-watch-videos-buttons{
+    display: flex;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 40px;
+}
+
+.get-started-button{
+    border: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -20px;
+    border-radius: 35px;
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.35s;
+}
+
+
+.get-started-button:hover{
+   font-size: 15px;
+   background-color: sandybrown;
+
+}
+
+.get-started-button:active{
+   background-color: blueviolet;
+}
+.video-icon{
+    width: 25px;
+    height: 25px;
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: solid;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.video-icon:hover{
+    background-color: sandybrown;
+    border-color: sandybrown;
+}
+
+.Watch-videos{
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: color 0.35s;
+    
+}
+
+.Watch-videos:hover{
+    color: sandybrown;
+    font-weight: bold;
+}
+
+.Watch-videos:active{
+    color: blueviolet;
+}
+
+.color1{
+    height: 15px;
+    width: 15px;
+    background-color: orangered;
+    border-radius: 10px;
+    position: relative;
+    top:-150px;
+    float: right;
+    right: 40px;
+    
+}
+.color2{
+    height: 15px;
+    width: 15px;
+    background-color: rgb(189, 64, 64);
+    border-radius: 10px; 
+    left: 40px;
+    position: relative;
+    top:-50px
+}
+
+.color3{
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+    border-radius: 5px; 
+    left: 40px;
+    position: relative;
+    float: right;
+    top: 80px;
+    margin-right: 400px;
+    
+}
+
+.color4{
+    height: 15px;
+    width: 15px;
+    background-color: orangered;
+    border-radius: 10px;
+    position: relative;
+    bottom:-450px;
+    float: left;
+    left: 150px;
+  
+}
+.color5{
+    height: 10px;
+    width: 10px;
+    background-color: lightcoral;
+    border-radius: 5px; 
+    margin-left: 40px;
+    position: relative;
+    float: right;
+    bottom: -450px;
+    margin-right: -150px;
+    
+}
+
+.color6{
+    height: 10px;
+    width: 10px;
+    background-color: orangered;
+    border-radius: 10px;
+    position: relative;
+    top:700px;
+    left: 70px;
+    
+}
+
+.color7{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(228, 67, 67);
+    border-radius: 10px;
+    position: relative;
+    top:800px;
+    right: 40px;
+
+    float: right;
+}
+
+.color8{
+    height: 15px;
+    width: 15px;
+    background-color: blueviolet;
+    float: right;
+    border-radius: 10px;
+    position: relative;
+    right: -70px;
+    top:1100px;
+}
+
+
+
+
+
+
+.center-children-images{
+    display: flex;
+    margin-top: -10px;
+}
+
+.children-images{
+    width: 250px;
+    height: 400px;
+    border-radius: 400px;
+    margin-left: 30px;
+}
+
+.children-images2{
+    width: 250px;
+    height: 400px;
+    border-radius: 400px;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+
+
+
+
+
+.trusted-by-text{
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+.companies-logo{
+    border-style: solid;
+    border-width: 1px;
+    border-top: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(175, 173, 173);
+    padding-left: 200px;
+    padding-right: 200px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.company-logos{
+    height: 35px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.compony-name{
+     color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: -110px;
+    cursor: pointer;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+.how-its-work-text{
+    color: rgb(240, 61, 61);
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    bottom: -20px;
+
+}
+
+.tutoring{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 540;
+    line-height: 27px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.tutoring-services{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-top: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(163, 160, 160);
+    margin-top: 40px;
+}
+
+.services-div{
+    padding: 20px;
+    background-color: rgb(243, 233, 233);
+    border-radius: 15px;
+}
+
+.service-icon{
+    width: 30px;
+    position: absolute;
+    border-radius: 30px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+.service-text , .guardian-type , .guardian-text , .list , .copy-right{
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    font-size: 16px;    
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 25px;
+}
+
+.list{
+    margin-left: -40px;
+    line-height: 25px;
+}
+
+.list:hover{
+    text-decoration: underline;
+}
+.list:active{
+    color: rgb(103, 9, 190);
+}
+
+.guardian-type{
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: -118px;
+}
+
+.read-more-link{
+   text-decoration: none;
+  color: blue;
+
+}
+
+.read-more-link:hover{
+    text-decoration: underline;
+}
+
+.service-heading , .guardians-name{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 540;
+ 
+}
+
+.guardians-name{
+    margin-top: -0px;
+}
+
+
+.img-container1{
+    background-color: blueviolet;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
+.img-container2{
+    background-color: rgb(49, 49, 252);
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.img-container3{
+    background-color: rgb(202, 68, 19);
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.img-container4{
+    background-color: rgb(236, 73, 127);
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+.learing-method{
+   display: flex;
+
+}
+
+.woman-image1{
+    width: 300px;
+    margin-top: -40px;
+    margin-left: 45px;
+}
+
+.woman-image-container{
+    margin-top: 50px;
+    background-color: orangered;
+    width: 400px;
+    padding: 10px;
+    padding-bottom: 0px;
+    display: flex;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+    
+
+}
+.method{
+    margin-left: 60px;
+    padding: 0px;
+}
+
+.learing-method-links{
+    display: inline-block;
+    margin-left: -24.5px;
+    
+}
+.World-class-link , .Flexibel-link , .Easy-learing-link , .Affordable-link{
+    margin-right: 50px;
+    text-decoration: none;
+    font-family: sans-serif;
+ 
+
+}
+
+.learing-method-text{
+    color: rgb(240, 61, 61);
+    font-family: sans-serif;
+    font-size: 14px;
+    position: relative;
+    bottom: -35px;
+    margin-left: 10px;
+
+}
+
+.access-to-learn-text{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 540;
+    line-height: 40px;
+}
+
+.make-it-easier-text{
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: -10px;
+    margin-top: -20px;
+}
+
+
+
+
+
+.choose-class{
+    background-color: rgb(8, 8, 32);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+ 
+}
+
+.class-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.choose-class-text , .enter-email-toget-news-text{
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 540;
+    line-height: -1px;
+    text-align: center;
+}
+
+.lever-of-creativity , .knowledge-of-earth , .logic , .drawing{
+    background-color: white;
+    padding: 10px;
+    height: 330px;
+    border-radius: 30px;
+   
+   
+}
+
+.choose-class-images{
+    width: 250px;
+    border-radius: 20px;
+}
+.icon-group{
+    width: 25px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.icon-star{
+    width: 16px;
+    margin-top: 1px;
+}
+
+.numbers{
+    margin-left: 10px;
+}
+
+.us-dollar{
+    margin-left: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+.group-icon-text , .written-time{
+     color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: -10px;
+   margin-top: -22px;
+    margin-left:30px ;
+}
+
+.written-time{
+    margin-top: 0px;
+    margin-left: 0px;
+    color: rgb(46, 45, 45);
+    font-weight: 550;
+}
+
+
+.view-more-button{
+    border: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -20px;
+    border-radius: 35px;
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 500px;    
+    transition: background-color 0.35s;
+}
+
+.view-more-button:hover{
+    background-color: rgb(30, 197, 66);
+}
+
+.view-more-button:active{
+     background-color: blueviolet;
+}
+
+
+
+
+
+
+.features{
+    display: flex;
+    margin-top: 30px;
+}
+
+.features-texts{
+    margin-top: 80px;
+
+}
+
+.features-text-head{
+color: rgb(240, 61, 61);
+font-family: sans-serif;
+font-size: 14px;
+position: relative;
+bottom: -35px;
+margin-left: 10px;
+}
+
+.specify-the-time , .what-did-the-guardians-say-text{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 540;
+    line-height: 40px;
+}
+
+.due-to-availability {
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: -10px;
+    margin-top: -20px;
+}
+
+.woman-image-container2{
+margin-top: 50px;
+background-color: yellow;
+width: 400px;
+height: 410px;
+padding: 10px;
+padding-bottom: 0px;
+display: flex;
+border-top-right-radius: 200px;
+border-top-left-radius: 200px;
+margin-left: 80px;
+}
+
+.woman-image2{
+    width: 300px;
+    margin-top: -60px;
+    margin-left: 9px;
+}
+
+.search-teachers-button{
+    position: absolute;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+    border-radius: 80px;
+    margin-left: 0px;
+   padding-left: 80px;
+   padding-right: 80px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    transition:opacity 0.95s;
+}
+
+.search-teachers-button:hover{ 
+   opacity: 0.6;
+}
+
+.search-teachers-button:active{
+     background-color: blueviolet;
+}
+.search-teachers::placeholder{
+    padding: 0px;
+}
+
+
+
+
+.student-guardian-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.div-header1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.less-than-greater-than-div{
+    display: flex;
+    align-items: center;
+    margin-right: px;
+
+}
+
+.less-than{
+    width: 10px;
+    height: 10px;
+    border-style: solid;
+    border-radius: 90px;
+    border-width: 1px;
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 9px;
+    font-weight: bold;
+    font-size: 20px;
+    position:relative;
+}
+
+.greater-than{
+    color: white;
+    width: 10px;
+    height: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    border-color: blueviolet;
+    background-color: blueviolet;   
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 9px;
+    margin-left: 10px;
+    transition:opacity 0.5s;
+    position:relative;
+}
+
+.greater-than:hover{
+   opacity: 0.8;
+ 
+}
+
+.less-than-symbols{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    position:absolute;
+    transition:opacity 0.5s;
+}
+
+.less-than:hover{
+    opacity: 0.8;
+  
+ }
+
+.greater-than-symbols{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position:absolute;
+
+}
+
+
+
+.student-guardian{
+background-color: rgb(190, 190, 190);
+    width: 500px;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.student-guardian-info{
+    display: flex;
+}
+
+.guardians-image{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+
+.enter-email-toget-news-div{
+  background-color: rgb(32, 32, 66);
+  color: white;
+  border-top-right-radius: 900px;
+  border-top-left-radius: -900px;
+  border-bottom-left-radius: 900px;
+  border-bottom-right-radius: -900px;
+  padding-top: 20px;
+  margin-top: 50px;
+  line-height: 35px;
+  padding-bottom: 200px;
+  
+}
+
+.you-will-get-the-notification-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: -20px;
+    font-weight: 200;
+}
+
+.email{
+    height: 40px;
+    width: 400px;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 20px;
+    margin-left: 360px;
+}
+
+.email::placeholder{
+    padding: 0px;
+    }
+    
+
+.submit-button{
+position: absolute;
+border: none;
+background-color: blueviolet;
+color: white;
+cursor: pointer;
+border-radius: 20px;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: -110px;
+margin-top: 4px;
+transition:opacity 0.95s;
+}
+
+.submit-button:hover{ 
+opacity: 0.6;
+}
+
+.submit-button:active{
+ background-color: blueviolet;
+}
+
+
+
+
+
+.end-of-page{
+    margin-top: 100px;
+    background-color: rgb(219, 215, 215);
+    padding: 30px;
+    padding-bottom: 5px;
+    line-height: ;
+}
+.end-of-page-top{ 
+   display: flex;
+   justify-content: space-between;
+  
+
+}
+
+.end-of-page-bottom{
+    display: flex;
+}
+
+.end-of-page-bottom-container1{
+    margin-right: 50px;
+}
+
+.copy-right{
+    margin-left: 746px;
+    margin-top: 20px;
+}
